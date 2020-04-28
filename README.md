@@ -1,4 +1,4 @@
-# 2020-04-28-git_collaboration-martin
+# Git Collaboration Workshop 
 Oreilly git collaboration workshop
 
 - `git clone` <URL>: downloads the repo from the web to your computer
