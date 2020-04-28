@@ -8,3 +8,5 @@ Oreilly git collaboration workshop
 - `git branch <branch_name>`: create a new branch
 - `git switch <branch_name>`: move to a branch
     - `git checkout -b <branch_name>`:  
+
+- `git stash`: temporarily saves your work to a virtual commit
