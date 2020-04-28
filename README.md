@@ -5,3 +5,6 @@ Oreilly git collaboration workshop
     - make sure you do not nest this command inside another repo
     - just do this once per repo
 
+- `git branch <branch_name>`: create a new branch
+- `git switch <branch_name>`: move to a branch
+    - `git checkout -b <branch_name>`:  
